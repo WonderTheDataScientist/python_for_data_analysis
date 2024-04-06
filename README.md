@@ -1,3 +1,73 @@
+Data Analyst Class from beginning till date
+
+(Video 1)
+https://youtu.be/ZmA-fGyg5zs
+
+(Video 2)
+https://youtu.be/We2J38PsTjc (Advance Excel Function with AI in python)
+
+https://drive.google.com/file/d/1_3CE6hgnjOoMVXhB2euipSZKBBGgempC/view?usp=sharing
+
+(Video 3)
+
+https://drive.google.com/file/d/1jW2hflExNMiRjQzIS9bhm_zSWw5A_mCL/view?usp=sharing
+
+(Video 4)
+https://drive.google.com/file/d/1TBw3gWO049V40TjxHD4fnP9AFCxcCIuQ/view?usp=sharing
+
+https://drive.google.com/file/d/1RqZ6zD5xovgONwrEzdkc3Mjsdry0ZwJi/view?usp=sharing (VIDEO 5 - DATA VALIDATION Part 1)
+
+https://drive.google.com/file/d/1rE1eRt5d3BcNUFYPisU5_hKZhUjYiVuk/view?usp=sharing (VIDEO 5 - DATA VALIDATION Part2)
+
+https://drive.google.com/file/d/1dOpeq7kFKL-93wPsbMUbnvkX0tzOxFCj/view?usp=sharing (first video  big data visualization)
+
+https://drive.google.com/file/d/10iFcdLA0ASR1tUCojtp8Q2QLoDNCMzZy/view?usp=sharing  (second video Data Visualization)
+
+https://drive.google.com/file/d/1nCX_bA-GfAG1aEfZrTOQ5rShYpJaebow/view?usp=sharing
+
+https://drive.google.com/file/d/16v2X0QG77YFl3EJU9BVvZxKgjhlV3g4h/view?usp=sharing
+
+https://drive.google.com/file/d/1N85RKVvLtvUbPfZBC_iSUiKOJ60mx2yh/view?usp=sharing
+
+POWERBI
+https://drive.google.com/file/d/1rlXhLK4Mexrv_gHnC8cMogN_mg0Su9Kt/view?usp=share_link (POWER BI CLASS 1)
+
+https://drive.google.com/file/d/1OzD_-2G3HnmtggB9s0lztSD1p4SpAN3J/view?usp=sharing (PowerBI 2)
+
+https://www.datacamp.com/cheat-sheet/dax-cheat-sheet
+(PowerBI DAX CHEAT SHEET)
+https://drive.google.com/file/d/1ETfe1eUlaqMsHOUfmnYirjN82gbbEQeP/view?usp=sharing (PowerBI Map)
+
+https://drive.google.com/file/d/1i28n6PrUA6GKKPw1Z-pQ40Bf2vnTIM39/view?usp=sharing (Excel - Data Cleaning/ Date Formatting)
+
+https://drive.google.com/file/d/1exnbbzeJycJYRb43Yf2GOCPCbRYGQ5Up/view?usp=sharing (PowerBI Class 3)
+
+https://drive.google.com/file/d/1qRJvurk3nrw_UT_OLa-YvwUYLd8OwRSx/view?usp=sharing 
+
+(Data Exploration Using PowerBI)
+
+SQL CLASS VIDEO
+https://drive.google.com/file/d/14RO1uA8w0STH6xnIWAUfuJO5LkXA7J4Z/view?usp=sharing (VIDEO 1)
+
+https://drive.google.com/file/d/1RED_K3bk02W8p7kEztEmvnLdpG2KFiZm/view?usp=sharing   (Video 2)
+
+https://drive.google.com/file/d/10WmO-U9A6eBG13nlEPpzeJ4n9RSI5viw/view?usp=sharing
+
+Video 4.
+
+https://drive.google.com/file/d/1VYdw_TC4OGFiktmB4g0fL6qe9xAhoJ5-/view?usp=sharing (Video 5)
+
+https://drive.google.com/file/d/1VrkPIF5LIkiJE-zFMv-JT7KQjznAOvy_/view?usp=sharing (Video 6)
+
+https://drive.google.com/file/d/1gseB69JKpRGCH-2gy425_IqSOYlp4z0X/view?usp=sharing (Video 7)
+
+https://drive.google.com/file/d/1PMUjendllKTOHOtIV-AXhRReIY-_uNcG/view?usp=sharing (Video 8)
+
+https://drive.google.com/file/d/1MvgyJmZjIvmM5q8GXWkCtGDOHnCisMgv/view?usp=sharing (Video 9)
+
+https://drive.google.com/file/d/1GAzhAiu-o_IhJX9tU587mnAwNa9t3imQ/view?usp=sharing (Video 10)
+
+
 PYTHON FOR DATA ANALYSIS CLASSES
 (DAY ONE)
 https://drive.google.com/file/d/1Q2FeyE5xldfS7jaFhiSd8TZh0ZaFRfnX/view?usp=sharing (Video 1)
