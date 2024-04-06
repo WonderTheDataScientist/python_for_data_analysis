@@ -95,3 +95,9 @@ https://drive.google.com/file/d/13FfoyU-K183pH1_LP29QHRvpMMTDzP5w/view?usp=shari
 https://youtu.be/viP-2rWUx_8
 
 Multivariate Linear Regression
+
+https://www.youtube.com/watch?v=F6wvbvsG7I8&list=PLtrH7zBTNEN1CLYCtupgY4D4Gb-dbBROn
+
+Last Class on Decision Tree Classifier
+View via the playlist
+Subscribe for more Machine Learning / Data Analytics Video
